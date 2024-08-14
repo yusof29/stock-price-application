@@ -19,24 +19,24 @@ The application consists of the following components:
 
 1. **Clone the Repository and Install Dependencies**
 
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
-   npm install
+   - git clone https://github.com/yusof29/stock-price-application.git
+   - cd your-repository
+   - npm install
 
 2. **Configure Environment Variables**
 
-   link to the api key: https://drive.google.com/file/d/1SXNdEyJOy23ZOQcZX9z24OBIFiFDIVpR/view?usp=sharing
-   Create a .env file in the root directory of the project and add the Finnhub API key.
-   VITE_API_KEY=api_key_here
+   - link to the api key: https://drive.google.com/file/d/1SXNdEyJOy23ZOQcZX9z24OBIFiFDIVpR/view?usp=sharing
+   - Create a .env file in the root directory of the project and add the Finnhub API key.
+   - VITE_API_KEY=api_key_here
 
 3. **Run the Application**
 
-   To start the development server, use:
-   npm run dev
+   - To start the development server, use:
+   - npm run dev
 
 ## Usage
 
-Open the application in your browser.
-Use the search bar to enter a stock symbol or name.
-Click on a result from the dropdown to view detailed information about the selected stock.
-The stock details and current price will be displayed below the search bar.
+- Open the application in your browser.
+- Use the search bar to enter a stock symbol or name.
+- Click on a result from the dropdown to view detailed information about the selected stock.
+- The stock details and current price will be displayed below the search bar.
